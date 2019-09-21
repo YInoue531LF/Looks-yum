@@ -1,0 +1,19 @@
+current directory: /home/liberty_inoue/Looks-yum/vender/bundle/ruby/2.5.0/gems/byebug-10.0.2/ext/byebug
+/usr/local/.rbenv/versions/2.5.3/bin/ruby -r ./siteconf20190921-19752-h4l3fk.rb extconf.rb
+creating Makefile
+
+current directory: /home/liberty_inoue/Looks-yum/vender/bundle/ruby/2.5.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/liberty_inoue/Looks-yum/vender/bundle/ruby/2.5.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/liberty_inoue/Looks-yum/vender/bundle/ruby/2.5.0/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" install
+/bin/install -c -m 0755 byebug.so ./.gem.20190921-19752-1sset2f/byebug
